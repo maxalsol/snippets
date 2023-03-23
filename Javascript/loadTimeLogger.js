@@ -1,3 +1,6 @@
+//? Load Time Logger
+// loggs loading time of html from start to finish
+
 const startTime = new Date();
 
 function logWithTime(message) {
