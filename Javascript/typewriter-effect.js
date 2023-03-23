@@ -1,4 +1,5 @@
 //? typrewriter-effect
+// makes it look like text is typed
 // npm install typewriter-effect
 
 // for rosenbachter.de
