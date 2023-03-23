@@ -1,4 +1,7 @@
+//? typrewriter-effect
 // npm install typewriter-effect
+
+// for rosenbachter.de
 
 let typewriter = 'typewriter-effect';
 
@@ -7,7 +10,7 @@ const typed = document.getElementById('typed');
 typewriter = new Typewriter(typed, {
     loop: true,
     cursor: '|',
-    delay: 75,
+    delay: 75
 });
 
 typewriter
